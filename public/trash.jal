@@ -1,0 +1,25 @@
+
+
+.three{
+  background-color: #EFEEEF;
+  min-height: 260px;
+}
+.four{
+  background-color: #E0E0E0;
+  min-height: 260px;
+}
+.five{
+  background-color: #EFEEEF;
+  min-height: 260px;
+}
+
+.six{
+  background-color: #34ADFF;
+  background-image: -webkit-linear-gradient(30deg, #34ADFF 45%, #4CBFFF 45%);
+  min-height: 400px;
+}
+.seven{
+  background-color: #013A6B;
+  background-image: -webkit-linear-gradient(150deg, #013A6B 35%, #004E95 35%);
+  min-height: 200px;
+}
